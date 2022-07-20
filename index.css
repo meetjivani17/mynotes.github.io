@@ -1,0 +1,27 @@
+html{
+    width: 100% !important;
+}
+#facebook:hover{
+    color: rgb(66, 66, 192) !important ;
+}
+#Twitter:hover{
+    color: rgb(66, 66, 192) !important ;
+}
+#Instagram:hover{
+    color: rgb(190, 43, 43) !important ;
+}
+#Linkedin:hover{
+    color: rgb(66, 66, 192) !important ;
+}
+#addTitle:hover{
+    box-shadow: black !important; 
+}
+#notecard{
+    max-width: 100% !important;
+}
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    overflow: hidden;
+}
